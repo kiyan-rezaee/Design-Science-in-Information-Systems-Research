@@ -66,9 +66,5 @@ of the challenges of performing high-quality
 design-science research in the context of the
 broader IS community.
 
-### Keywords: Information Systems research meth-
-odologies, design science, design artifact, busi-
-ness environment, technology infrastructure,
-search strategies, experimental methods,
-creativity.
+### Keywords: Information Systems research methodologies, design science, design artifact, business environment, technology infrastructure, search strategies, experimental methods, creativity.
 

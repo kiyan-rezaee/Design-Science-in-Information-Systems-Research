@@ -13,21 +13,21 @@ College of Business Administration
 University of South Florida
 Tampa, FL 33620
 U.S.A.
-ahevner@coba.usf.edu\
+ahevner@coba.usf.edu
 
 Salvatore T. March
 Own Graduate School of Management
 Vanderbilt University
 Nashville, TN 37203
 U.S.A.
-Sal.March@owen.vanderbilt.edu\
+Sal.March@owen.vanderbilt.edu
 
 Jinsoo Park
 College of Business Administration
 Korea University
 Seoul, 136-701
 KOREA
-jinsoo.park@acm.org\
+jinsoo.park@acm.org
 
 Sudha Ram
 Management Information Systems
@@ -36,7 +36,7 @@ Administration
 University of Arizona
 Tucson, AZ 85721
 U.S.A.
-ram@bpa.arizona.edu\ 
+ram@bpa.arizona.edu
 
 ## Abstract
 
@@ -65,7 +65,8 @@ of these guidelines. We conclude with an analysis
 of the challenges of performing high-quality
 design-science research in the context of the
 broader IS community.
-Keywords: Information Systems research meth-
+
+### Keywords: Information Systems research meth-
 odologies, design science, design artifact, busi-
 ness environment, technology infrastructure,
 search strategies, experimental methods,
